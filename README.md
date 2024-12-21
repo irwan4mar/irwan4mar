@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @irwan4mar
-- 👀 I’m interested in data analyst
+- 👀 I’m interested in data analyst, data science, wordpress developer, and web developer programming.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on project business intelligence
 - 📫 How to reach me ...
